@@ -1,0 +1,27 @@
+[submodule "Maths"]
+	path = Maths
+	url = https://github.com/DBSDL-1/Maths.git
+[submodule "Physics"]
+	path = Physics
+	url = https://github.com/DBSDL-1/Physics.git
+[submodule "Chemistry"]
+	path = Chemistry
+	url = https://github.com/DBSDL-1/Chemistry.git
+[submodule "Biology"]
+	path = Biology
+	url = https://github.com/DBSDL-1/Biology.git
+[submodule "English"]
+	path = English
+	url = https://github.com/DBSDL-1/English.git
+[submodule "Civics"]
+	path = Civics
+	url = https://github.com/DBSDL-1/Civics.git
+[submodule "Geography"]
+	path = Geography
+	url = https://github.com/DBSDL-1/Geography.git
+[submodule "Economics"]
+	path = Economics
+	url = https://github.com/DBSDL-1/Economics.git
+[submodule "IT-Tech"]
+	path = IT-Tech
+	url = https://github.com/DBSDL-1/IT-Tech.git
